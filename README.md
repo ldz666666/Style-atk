@@ -13,3 +13,15 @@ Test code for both our attack method and norm-based attack method can be found u
 pytorch 1.5.1  
 advertorch 0.1  
 opencv-python 4.1.1.26
+
+## Citation
+If you found this repo useful, please cite
+```
+@inproceedings{li2021exploring,
+  title={Exploring Adversarial Fake Images on Face Manifold},
+  author={Li, Dongze and Wang, Wei and Fan, Hongxing and Dong, Jing},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5789--5798},
+  year={2021}
+}
+```
