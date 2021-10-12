@@ -85,7 +85,7 @@ class GradientSignAttack(Attack, LabelMixin):
         
         #added by ldz
         grad_sign=batch_multiply(self.eps,grad_sign)
-        grad_sign=clamp(grad_sign,self.clip_min,self.clip_max)
+        grad_sign=clamp(xadv+grad_sign,self.clip_min,self.clip_max)-xadv
         
         xadv = clamp(xadv, self.clip_min, self.clip_max)
 
