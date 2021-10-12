@@ -7,7 +7,7 @@ We also implement traditional norm-based adversarial attacks on fake image detec
 
 ## Usage
 To run the code, just `python attack_demo.py`  
-Test code for both our attack method and norm-based attack method can be found under /pgd_baseline/test_attack.py 
+Test code for both our attack method and norm-based attack method can be found under /pgd_baseline/test_attack.py  
 We use [rosinality's](https://github.com/rosinality/style-based-gan-pytorch) pytorch implementation of StyleGAN, and we refer to [advertorch](https://advertorch.readthedocs.io/en/latest/user/installation.html#latest-version-v0-1) to implement our attack
 
 ## Requirements
