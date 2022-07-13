@@ -1,4 +1,4 @@
-# Style-atk
+# Style-atk （CVPR 2021）
 
 ## Description 
 Code for the **CVPR21 oral** paper [*Exploring Adversarial Fake Images on Face Manifold*](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Exploring_Adversarial_Fake_Images_on_Face_Manifold_CVPR_2021_paper.html) 
