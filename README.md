@@ -28,6 +28,8 @@ Test code for both our attack method and norm-based attack method can be found [
 
 We use [rosinality's](https://github.com/rosinality/style-based-gan-pytorch) pytorch implementation of StyleGAN, and we refer to [advertorch](https://advertorch.readthedocs.io/en/latest/user/installation.html#latest-version-v0-1) to implement our attack
 
+Weights of forensic models can be found [here](https://pan.baidu.com/s/1vaUdy6BeQtfzgMluUacTdA), password is 269p. 
+
 ## Requirements
 pytorch 1.5.1  
 advertorch 0.1  
